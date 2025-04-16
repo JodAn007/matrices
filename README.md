@@ -1,2 +1,2 @@
 # matrices
-Please don't judge me I need to invest more time yet still
+Attempting to create a math library especifically for matrices. Still in an infancy stage since development stopped pretty early.
